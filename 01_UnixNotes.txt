@@ -15,7 +15,7 @@ Lets get some files to work with:
 
 % git clone https://github.com/UWashington-Astro300/Astro300-W16.git
 
-% cd Astro300          change directory
+% cd Astro300-W16      change directory
 % pwd                  Show the current directory path.
 
 % ls                   list the files in a directory
