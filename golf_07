@@ -1,0 +1,11 @@
+john ( paul ( george ringo ) )
+john paul ( ( george ringo ) )
+john paul george ( ringo ) ( )
+( john paul (george) ringo )
+( john paul george ) ( ringo )
+
+john ( paul ) ( george ) ringo
+john ( paul ) (( george ringo ))
+john paul ( ( ( george ) ringo
+(( john )) paul george (ringo)
+( john paul george ringo )
